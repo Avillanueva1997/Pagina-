@@ -17,7 +17,7 @@
 <div class="container-fluid">
 <div class="row">
 	<div class="col-md-12" style="padding-left: 0px; padding-right: 0px;">
-<nav class="navbar navbar-inverse navbar-fixed-top" style="width: 1334px;">
+<nav class="navbar navbar-inverse navbar-fixed-top" style="width: 1349px;">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
