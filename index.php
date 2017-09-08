@@ -128,7 +128,7 @@
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-12" style="padding-right: 0px;">
+	<div class="col-md-12">
 	<div class="jumbotron" style="background-color:#3498db; margin-bottom: 0px;">
 		<p style="text-align: center; color: #fff; font-size: 18px;">GET IN TOUCH</p>
 		<p style="text-align: center; color: #fff; font-size: 15px;">We're social an we'd love to hear you! Feell free to send us an email, find us on Google Plus, follow us</p>
