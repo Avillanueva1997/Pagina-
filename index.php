@@ -16,7 +16,7 @@
 <body>
 <div class="container-fluid">
 <div class="row">
-	<div class="col-md-12" style="padding-left: 0px; padding-right: 0px;">
+	<div class="col-md-12" style="padding-left: 0px; padding-right: 0px; width: 1334px;">
 <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -128,7 +128,7 @@
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-12">
+	<div class="col-md-12" style="padding-right: 0px;">
 	<div class="jumbotron" style="background-color:#3498db; margin-bottom: 0px;">
 		<p style="text-align: center; color: #fff; font-size: 18px;">GET IN TOUCH</p>
 		<p style="text-align: center; color: #fff; font-size: 15px;">We're social an we'd love to hear you! Feell free to send us an email, find us on Google Plus, follow us</p>
@@ -143,7 +143,7 @@
 	</div>
 </div>
 <div class="row">
-	<div class="col-md-12" style="padding-left: 0px; padding-right: 0px; ">
+	<div class="col-md-12" style="padding-left: 0px; padding-right: 0px;">
 	<div class="jumbotron" style="background-color:#2c3e50; margin-bottom: 0px;">
         <footer>
 		<p style="text-align: center; color: #7f8c8d; font-size: 18px;">FLATI &copy; 2014 - All Rights Reserved:Template by Spiral Pixel</p>
