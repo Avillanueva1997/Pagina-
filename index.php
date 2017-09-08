@@ -147,7 +147,7 @@
 	<div class="jumbotron" style="background-color:#2c3e50; margin-bottom: 0px;">
         <footer>
 		<p style="text-align: center; color: #7f8c8d; font-size: 18px;">FLATI &copy; 2014 - All Rights Reserved:Template by Spiral Pixel</p>
-    <a href="#" id="btn-scroll-up" style="color:#000000;" class="btn-scroll-up btn btn-lg btn-inverse pull-right"><span class="glyphicon glyphicon-arrow-up"></span></a>
+    <a href="#" id="btn-scroll-up" style="color:#000000;" class="btn-scroll-up btn btn-lg btn-inverse pull-right"><span class="glyphicon glyphicon-triangle-top"></span></a>
 		</footer>
     </div>
 
