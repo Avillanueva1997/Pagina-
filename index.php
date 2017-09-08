@@ -49,8 +49,8 @@
                 <h1 style="text-align: center;">FLATI BOOTSTRAP</h1>
                 <p style="text-align: center;">CREATE - DESIGN - CODE</p>
                 <p style="text-align: center;"><a class="btn btn-primary btn-lg" href="#" role="button" style="background-color: #2980b9; border-color: #fff; border-radius: 0px;">OUR PORTAFOLIO</a></p>
-                <img class="robot" style="position: absolute; top: 150px; left: 220px; width: 350px; clip:rect(0px 500px 270px 0px);" src="<?= base_url();?>dist/img/robot.png">
-                <img class="rocket" style="position: absolute; top: 100px; right:200px; width: 200px;" src="<?= base_url();?>dist/img/rocket.png">                
+                <img class="robot" style="position: absolute; top: 150px; left: 220px; width: 350px; clip:rect(0px 500px 270px 0px);" src="https://convocatoria.herokuapp.com/dist/img/robot.png">
+                <img class="rocket" style="position: absolute; top: 100px; right:200px; width: 200px;" src="https://convocatoria.herokuapp.com/dist/img/rocket.png">                
     </div>
 
 	</div>
@@ -108,19 +108,19 @@
 	<p><a class="btn btn-default pull-left" style="background-color:#3498db; color: #fff; " href="#" role="button">view portfolio</a></p>
 	</div>	
 			<div class="col-md-2" style="background-color: #34495e; float: left; margin-left: 4em; margin-bottom: 6em; border-radius: 2%; padding-left: 0px; padding-right: 0px;">
-          <img src="<?= base_url();?>dist/img/1.jpg" style="width: 100%; height: 200px;">
+          <img src="https://convocatoria.herokuapp.com/dist/img/1.jpg" style="width: 100%; height: 200px;">
           <h5>CATALOGUE</h5>
           <p style="color:#7f8c8d;">An his tanquiam postulant, pri id mazim nostroud dicerent</p>  
         </div>
         <div class="col-md-2" style="background-color: #34495e; float: left; margin-left: 0.1em; margin-bottom: 6em; border-radius: 2%; padding-left: 0px; padding-right: 0px;">
-          <img src="<?= base_url();?>dist/img/2.jpg" style="width: 100%; height: 200px;">
+          <img src="https://convocatoria.herokuapp.com/dist/img/2.jpg" style="width: 100%; height: 200px;">
           
           <h5>LOUPE</h5>
           <p style="color:#7f8c8d;">An his tanquiam postulant, pri id mazim nostroud dicerent</p>
           
         </div>
         <div class="col-md-2" style="background-color: #34495e; float: left; margin-left: 0.1em; margin-bottom: 6em; border-radius: 2%; padding-left: 0px; padding-right: 0px;">
-          <img src="<?= base_url();?>dist/img/3.jpg" style="width: 100%; height: 200px;">
+          <img src="https://convocatoria.herokuapp.com/dist/img/3.jpg" style="width: 100%; height: 200px;">
           
           <h5>RETRO ROCKET</h5>
           <p style="color:#7f8c8d;">An his tanquiam postulant, pri id mazim nostroud dicerent</p>
